@@ -1,0 +1,73 @@
+[  
+  {  
+    "key":"Après guerre",
+    "values":[  
+      {  
+        "reason":"À la naissance",
+        "device":"Après guerre",
+        "value":65
+        
+      },
+      {  
+        "reason":"À 1 an",
+        "device":"Après guerre",
+        "value":69
+      },
+      {  
+        "reason":"À 20 ans",
+        "device":"Après guerre",
+        "value":52
+      },
+      {  
+        "reason":"À 40 ans",
+        "device":"Après guerre",
+        "value":35
+      },
+      {  
+        "reason":"À 60 ans",
+        "device":"Après guerre",
+        "value":18
+      },
+      {  
+        "reason":"À 65 ans",
+        "device":"Après guerre",
+        "value":14
+      }
+    ]
+  },
+  {  
+    "key":"Maintenant",
+    "values":[  
+      {  
+        "reason":"À la naissance",
+        "device":"Maintenant",
+        "value":85
+      },
+      {  
+        "reason":"À 1 an",
+        "device":"Maintenant",
+        "value":85
+      },
+      {  
+        "reason":"À 20 ans",
+        "device":"Maintenant",
+        "value":66
+      },
+      {  
+        "reason":"À 40 ans",
+        "device":"Maintenant",
+        "value":46
+      },
+      {  
+        "reason":"À 60 ans",
+        "device":"Maintenant",
+        "value":28
+      },
+      {  
+        "reason":"À 65 ans",
+        "device":"Maintenant",
+        "value":23
+      }
+    ]
+  }
+]
