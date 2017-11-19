@@ -1,71 +1,71 @@
 [  
   {  
-    "key":"Après guerre",
+    "key":"Hommes en 1946",
     "values":[  
       {  
         "reason":"À la naissance",
-        "device":"Après guerre",
+        "device":"Hommes en 1946",
         "value":60
         
       },
       {  
         "reason":"À 1 an",
-        "device":"Après guerre",
+        "device":"Hommes en 1946",
         "value":64
       },
       {  
         "reason":"À 20 ans",
-        "device":"Après guerre",
+        "device":"Hommes en 1946",
         "value":48
       },
       {  
         "reason":"À 40 ans",
-        "device":"Après guerre",
+        "device":"Hommes en 1946",
         "value":31
       },
       {  
         "reason":"À 60 ans",
-        "device":"Après guerre",
+        "device":"Hommes en 1946",
         "value":15
       },
       {  
         "reason":"À 65 ans",
-        "device":"Après guerre",
+        "device":"Hommes en 1946",
         "value":12
       }
     ]
   },
   {  
-    "key":"Maintenant",
+    "key":"Hommes en 2016",
     "values":[  
       {  
         "reason":"À la naissance",
-        "device":"Maintenant",
+        "device":"Hommes en 2016",
         "value":79
       },
       {  
         "reason":"À 1 an",
-        "device":"Maintenant",
+        "device":"Hommes en 2016",
         "value":79
       },
       {  
         "reason":"À 20 ans",
-        "device":"Maintenant",
+        "device":"Hommes en 2016",
         "value":60
       },
       {  
         "reason":"À 40 ans",
-        "device":"Maintenant",
+        "device":"Hommes en 2016",
         "value":41
       },
       {  
         "reason":"À 60 ans",
-        "device":"Maintenant",
+        "device":"Hommes en 2016",
         "value":23
       },
       {  
         "reason":"À 65 ans",
-        "device":"Maintenant",
+        "device":"Hommes en 2016",
         "value":19
       }
     ]

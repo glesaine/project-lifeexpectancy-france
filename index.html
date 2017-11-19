@@ -67,7 +67,7 @@
 			  h: height,
 			  margin: margin,
 			  legendPosition: legendPosition,
-			  maxValue: 80,
+			  maxValue: 100,
 			  wrapWidth: 60,
 			  levels: 4,
 			  roundStrokes: true,
@@ -80,8 +80,10 @@
 			//Load the data and Call function to draw the Radar chart
 			d3.json("esperance_femmes.json", function(error, data){
 				RadarChart("#chart-left", data, radarChartOptions);
-				RadarChart("#chart-right", data, radarChartOptions);
 			});
+			d3.json("esperance_hommes.json", function(error, data){
+				RadarChart("#chart-right", data, radarChartOptions);
+			});							
 			
 		</script>
 	</body>

@@ -311,11 +311,11 @@ function RadarChart(id, data, options) {
 	function cellover(d) {
 			//Dim all blobs
 			d3.selectAll(".radarArea")
-				.transition().duration(200)
+				.transition().duration(100)
 				.style("fill-opacity", 0.1); 
 			//Bring back the hovered over blob
 			d3.select("." + data[d][0][areaName].replace(/\s+/g, ''))
-				.transition().duration(200)
+				.transition().duration(100)
 				.style("fill-opacity", 0.7);	
 	}
 
@@ -339,7 +339,7 @@ function RadarChart(id, data, options) {
   //d3 symbol creates a path-string, for example
   //"M0,-8.059274488676564L9.306048591020996,
   //8.059274488676564 -9.306048591020996,8.059274488676564Z"
-  	.shape("path", d3.svg.symbol().type("triangle-up").size(150)())
+  	.shape("path", d3.svg.symbol().type("circle").size(150)())
   	.shapePadding(10)
   	.scale(cfg.color)
   	.labels(cfg.color.domain().map(function(d){

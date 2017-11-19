@@ -1,71 +1,71 @@
 [  
   {  
-    "key":"Après guerre",
+    "key":"Femmes en 1946",
     "values":[  
       {  
         "reason":"À la naissance",
-        "device":"Après guerre",
+        "device":"Femmes en 1946",
         "value":65
         
       },
       {  
         "reason":"À 1 an",
-        "device":"Après guerre",
+        "device":"Femmes en 1946",
         "value":69
       },
       {  
         "reason":"À 20 ans",
-        "device":"Après guerre",
+        "device":"Femmes en 1946",
         "value":52
       },
       {  
         "reason":"À 40 ans",
-        "device":"Après guerre",
+        "device":"Femmes en 1946",
         "value":35
       },
       {  
         "reason":"À 60 ans",
-        "device":"Après guerre",
+        "device":"Femmes en 1946",
         "value":18
       },
       {  
         "reason":"À 65 ans",
-        "device":"Après guerre",
+        "device":"Femmes en 1946",
         "value":14
       }
     ]
   },
   {  
-    "key":"Maintenant",
+    "key":"Femmes en 2016",
     "values":[  
       {  
         "reason":"À la naissance",
-        "device":"Maintenant",
+        "device":"Femmes en 2016",
         "value":85
       },
       {  
         "reason":"À 1 an",
-        "device":"Maintenant",
+        "device":"Femmes en 2016",
         "value":85
       },
       {  
         "reason":"À 20 ans",
-        "device":"Maintenant",
+        "device":"Femmes en 2016",
         "value":66
       },
       {  
         "reason":"À 40 ans",
-        "device":"Maintenant",
+        "device":"Femmes en 2016",
         "value":46
       },
       {  
         "reason":"À 60 ans",
-        "device":"Maintenant",
+        "device":"Femmes en 2016",
         "value":28
       },
       {  
         "reason":"À 65 ans",
-        "device":"Maintenant",
+        "device":"Femmes en 2016",
         "value":23
       }
     ]
