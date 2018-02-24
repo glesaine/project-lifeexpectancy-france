@@ -1,12 +1,12 @@
-# Life expectancy in France
+# Life expectancy in France after WWII
 
-This repository in a simple visualization of the ISF (Solidarity Tax on Wealth) in France in 2015. Two graphs are available:
-* Scatter chart of the tax over towns in France. 
-* Bar chart of the tax over regions in France.
+This repository in a simple visualization of life expectancy in France after World War II. Two radar graphs are available:
+* Women life expectancy at every ages of life in 1946 and 2016. 
+* Men life expectancy at every ages of life in 1946 and 2016.
 
 ## Running the visualization
 
-Just click on this [link](https://glesaine.github.io/projet-visu-isf2015/)!
+Just click on this [link](https://glesaine.github.io/project-lifeexpectancy-france/)!
 
 ## Built With
 
@@ -14,7 +14,7 @@ Just click on this [link](https://glesaine.github.io/projet-visu-isf2015/)!
 
 ## Source
 
-* [Data.gouv](https://www.data.gouv.fr/en/datasets/impot-de-solidarite-sur-la-fortune/#_) - Open platform for French public data.
+* [INSEE](https://www.insee.fr/fr/statistiques/1906668?sommaire=1906743) - National Institute of Statistics and Economic Studies in France.
 
 ## Author
 
