@@ -6,7 +6,7 @@ This repository in a simple visualization of life expectancy in France after Wor
 
 ## Running the visualization
 
-Just click on this [link](https://glesaine.github.io/project-lifeexpectancy-france/)!
+Just click on this [link](https://guillaume-lesaine.github.io/project-lifeexpectancy-france/)!
 
 ## Built With
 
